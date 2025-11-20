@@ -65,7 +65,7 @@ Irányítás a billentyűzettel:
 
 ### Saját modul
 
-#### `szbi_blackjack.py`
+#### `blackjack_szbi.py`
 
 Ebben található a játék logikája és a rajzolás nagy része.
 
